@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lelia-project",
+  "private_key_id": "de741339cf080fcb5de2b121f4b77920912faf5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCHUytjaPPnaME8\nGHnXmAXuBhLYyePJkFqiVz72WsrBuS4Fx4TL2h1sjTgQ71BnV7Z0kSrcuMuTUEkG\nTIS5KgyvcegiEGZ08xavrnYfoySwNcWgrxJDSvACczVcsCikG0uBnEGEx4hDQ1LX\nJYDldGZShKQtdJo4JkzWysB4HTKdki3zgzTQm3klm5ocHv6t4JF8yr1fdr3f3XQa\no6Sw59rH+cMvteZit/RLhS5DGy/RXSilec5frB1nsUiewW6O6M9h9lgIku4Lv4qM\nrW9s9DdWFSQKhSquLDIg69oic06Lpi2wyR8j4yCLPwaXlZiL2cd4gwrGGJeHV5N9\n15E9mpA5AgMBAAECggEAB5qWRQs4LUgXF4veiM07hBDmTTUm7gQE+7tAR/J5EyKX\nIe8AmL3ESn2y6UyxLWVh1LH1gRqHIdtwhwCUspzYwqD5ZLScNTUVkMCSVZvCq34S\nAUHlGk/jJZgYpwEk/3ejKgDAM7hMgU8OoBU05W/BciCO4xj6s23/glA5OWaWmgDw\nVjLImnM0y3rs74yrCN+sP+H59btguymtLYHg7vVJAY92S03Y46efIHLDDGWBFCoD\n6rJsppEEHzwHDUgICUx3qpnKF/adXLBP7w5g9Qp/DKnlSKMGUxZsFIuMRn7xQokk\nG2cucsiHrVBrpwaCvn2/+Pi/QtkKs8miRKaXfZlx2wKBgQC7JvOIZVBPMxg+Tzy5\nb5Oe3ykudfVPzrZFgkAwdrHS0GOjiDcIj4JpRmS5AOgOTtniQ2Nv3f8DY6A61oDY\nwz7CLvsPc6oYBlf1ic+0OEEqSH+i3fSREH7SuFSq6sINHE+cV/JjUhfS1AAQEUsV\npDmiVLslwk8GVF0GjoyDHjDXkwKBgQC5G2LiCTeK8lvX7SryGNDiYSJ9hKVxXcSv\npIP1MdGmThqQxrvss6Ww1TyUC0bgL5smE8lRrl1Z9Hvz3YTdTn8yNnXmVc61msli\np5E5zb8bJ3LRmqjvHYDwY/5TrTtwiO17PLvFYXRfxD0xTkhxG6kC2hx7V0HmO0ND\nMO2LLBrAgwKBgADJxTTJ2HC88lkw1Dyjr6d3oSDE9meDo1jfl42cslsE7aZ+qFys\n3gu7dCkjS9bjlh9R0VVjRfOps78LsDc5e0YuFHiYMBsxy6UJE4rawct/yqnQ7Xq+\n6wnQJOsjWfXcLKmn5Slt6xPEOMvYhsxsiKGaYb9i9ho8uLeSWh0jP2lpAoGAd62h\nLQtQgeFYSC7qyUQKKZMrvYN5g+ZgOD9hobHoHmH5Awm6jrtHsSDs3bq8xE2DPgck\n7k6RxIsxaOYb9Qm/azOS3q0zzG6bLdGxL3I60M+ciLA58P9eUg4UbP1fpM6i3D7U\nGDV+DDzQY4R9icOcbl+ecpBj5vsB7ftAWe7WDQkCgYAky5nktxQqTZgANfvBiyeU\nXcweyu6QRfQd4y4ueep+6DmcHjV8de/YRq4S1OukK+o18SVUJrTDWxd3VbA2Z3VR\nFCvZ76U0fzUVoRcgpcrC8BJFhCgew5n0uxrJLLs/hPiSjqPU4YHvst30zTvvRGIQ\nUZ5015P4U8eprecjuIHQsQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "leliaproject@lelia-project.iam.gserviceaccount.com",
+  "client_id": "101936141744420895593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leliaproject%40lelia-project.iam.gserviceaccount.com"
+}
